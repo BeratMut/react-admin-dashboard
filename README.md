@@ -1,12 +1,29 @@
-# React + Vite
+# 🛠️ Admin Dashboard – React 19 + Tailwind + Framer Motion
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, and elegant admin dashboard interface built with the latest **React 19**. Powered by motion, clean design, and modular components, this project provides a strong foundation for internal dashboards, analytics panels, or any administrative UI.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 [View Live Site](https://react-admin-dashboard-beige-tau.vercel.app)
 
-## Expanding the ESLint configuration
+## ⚙️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React 19** – Modern UI library with enhanced performance
+- **Framer Motion** – Smooth animations and page transitions
+- **Lucide React** – Lightweight and elegant SVG icon set
+- **React Router DOM v7** – Advanced routing for multi-page structure
+- **Recharts** – Beautiful, customizable data visualizations
+- **Tailwind CSS** – Utility-first, responsive styling framework
+
+## ✨ Features
+
+- Fully responsive (mobile, tablet, desktop)
+- Sidebar & top navbar layout
+- Animated route/page transitions
+- Clean and intuitive UI components
+- Interactive charts with Recharts
+- Modular file and folder structure
+- Easily extendable and customizable
+
+---
+
